@@ -1,0 +1,16 @@
+
+# Ambiente virtual
+.venv/
+
+# Configurações privadas
+.env
+
+# Cache do Python
+__pycache__/
+*.pyc
+
+# Cache dos testes
+.pytest_cache/
+
+# Configurações locais
+.vscode/
